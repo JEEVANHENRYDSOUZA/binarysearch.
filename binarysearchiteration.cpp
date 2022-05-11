@@ -1,3 +1,5 @@
+
+//log(2(n))------time complexity problem
 #include <iostream>
 
 int binarySearch(int arr[], int l, int r, int x)
